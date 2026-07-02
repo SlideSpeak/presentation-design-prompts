@@ -4,7 +4,7 @@
 
 > Read all about it
 
-Your deck set like a morning paper: masthead, justified columns, drop caps and a ruled numbers box. Ink on newsprint with one press red.
+A newspaper design for your slides: masthead, justified columns, drop caps and a ruled numbers box. The broadsheet front-page look for PowerPoint or Google Slides, ink on newsprint with one press red.
 
 **Category:** Finance & consulting &nbsp;·&nbsp; **Style:** Elegant, Corporate &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Playfair Display + Newsreader
 

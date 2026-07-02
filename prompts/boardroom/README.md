@@ -4,7 +4,7 @@
 
 > The slide is the argument
 
-The strategy-consulting classic. Every slide leads with a full-sentence action title, and a tiny tracker shows where you are in the argument.
+The strategy-consulting classic for board decks. Every slide leads with a full-sentence action title, and a tiny tracker shows where you are in the argument.
 
 **Category:** Business & strategy &nbsp;·&nbsp; **Style:** Corporate, Minimal &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Source Sans 3
 
@@ -51,7 +51,7 @@ Use this theme for my slides. Ask me what the presentation is about first, then 
 
 ## Fonts
 
-- **Source Sans 3** (heading and body, Google Fonts)
+- **Source Sans 3** (heading, Google Fonts)
 
 ---
 
