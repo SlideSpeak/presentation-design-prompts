@@ -6,7 +6,7 @@
 
 An unofficial homage to the Deloitte deck: a black cover with a white title block, two-tier headlines, figure cards with circle legends, bumper takeaway boxes and a logo placeholder ready for your own brand. Not affiliated with Deloitte.
 
-**Category:** Finance & consulting &nbsp;·&nbsp; **Style:** Corporate, Bold &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Open Sans + Source Serif 4
+**Category:** Consulting &nbsp;·&nbsp; **Style:** Corporate, Bold &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Open Sans + Source Serif 4
 
 <table>
     <tr>

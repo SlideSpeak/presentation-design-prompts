@@ -51,7 +51,7 @@ Use this theme for my slides. Ask me what the presentation is about first, then 
 
 ## Fonts
 
-- **EB Garamond** (heading and body, Google Fonts)
+- **EB Garamond** (heading, Google Fonts)
 
 ---
 

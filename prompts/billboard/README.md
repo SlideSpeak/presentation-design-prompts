@@ -50,7 +50,7 @@ Use this theme for my slides. Ask me what the presentation is about first, then 
 
 ## Fonts
 
-- **Anton** (heading and body, Google Fonts)
+- **Anton** (heading, Google Fonts)
 
 ---
 

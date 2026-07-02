@@ -6,7 +6,7 @@
 
 A KPMG presentation template homage in the firm's corporate blue: Barlow Condensed headlines over hairline rules, understated tables with no zebra striping, and a strict four-step chart ladder from #00338d to teal. An unofficial homage to the KPMG presentation style. Not affiliated with, endorsed by, or connected to KPMG International Limited or any KPMG member firm.
 
-**Category:** Finance & consulting &nbsp;·&nbsp; **Style:** Corporate, Minimal &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Barlow Condensed + Arimo
+**Category:** Consulting &nbsp;·&nbsp; **Style:** Corporate, Minimal &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Barlow Condensed + Arimo
 
 <table>
     <tr>

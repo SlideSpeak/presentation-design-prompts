@@ -6,7 +6,7 @@
 
 A Christmas PowerPoint template with letterpress restraint: cream paper, deep pine and berry red, thin gold string-light rules and Playfair Display headlines. It works just as well as a Christmas Google Slides theme for year-end reviews and holiday party decks.
 
-**Category:** Education & research &nbsp;·&nbsp; **Style:** Warm, Playful &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Playfair Display + Source Sans 3 + Caveat
+**Category:** Events & seasonal &nbsp;·&nbsp; **Style:** Warm, Playful &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Playfair Display + Source Sans 3 + Caveat
 
 <table>
     <tr>

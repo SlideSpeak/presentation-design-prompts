@@ -6,7 +6,7 @@
 
 Chunky blocks, thick black outlines and hard offset shadows in pink, teal and yellow. Loud on purpose, and weirdly good at holding attention.
 
-**Category:** Marketing & brand &nbsp;·&nbsp; **Style:** Playful, Bold &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Baloo 2 + Nunito
+**Category:** Marketing & brand &nbsp;·&nbsp; **Style:** Playful, Bold, Retro &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Baloo 2 + Nunito
 
 <table>
     <tr>

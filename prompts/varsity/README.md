@@ -6,7 +6,7 @@
 
 Jersey numbers with layered shadows and a row of pennants on cream. A season recap that belongs in the gym.
 
-**Category:** Education & research &nbsp;·&nbsp; **Style:** Bold, Warm &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Archivo Black + Barlow
+**Category:** Events & seasonal &nbsp;·&nbsp; **Style:** Bold, Warm, Retro &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Archivo Black + Barlow
 
 <table>
     <tr>

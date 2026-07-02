@@ -6,7 +6,7 @@
 
 A gatsby presentation theme in deep emerald and flat gold: sunburst fans, double-rule frames and letterspaced Cinzel capitals give this art deco PowerPoint template the discipline of a 1928 skyscraper lobby. Every motif is built from CSS geometry, so nothing reads as costume-party clip art.
 
-**Category:** Creative & portfolio &nbsp;·&nbsp; **Style:** Elegant, Bold &nbsp;·&nbsp; **Mode:** Dark &nbsp;·&nbsp; **Fonts:** Cinzel + Marcellus + Tenor Sans
+**Category:** Creative & portfolio &nbsp;·&nbsp; **Style:** Elegant, Bold, Retro &nbsp;·&nbsp; **Mode:** Dark &nbsp;·&nbsp; **Fonts:** Cinzel + Marcellus + Tenor Sans
 
 <table>
     <tr>

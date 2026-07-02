@@ -6,7 +6,7 @@
 
 A Halloween PowerPoint template built from flat shapes: faceless bats, a bone-white moon and shape-built pumpkins on deep midnight purple, with a quiz answer grid made for class parties and trivia rounds. Classroom safe, no gore, no clip art.
 
-**Category:** Education & research &nbsp;·&nbsp; **Style:** Playful, Dark &nbsp;·&nbsp; **Mode:** Dark &nbsp;·&nbsp; **Fonts:** Alfa Slab One + Baloo 2 + Schoolbell
+**Category:** Events & seasonal &nbsp;·&nbsp; **Style:** Playful, Dark &nbsp;·&nbsp; **Mode:** Dark &nbsp;·&nbsp; **Fonts:** Alfa Slab One + Baloo 2 + Schoolbell
 
 <table>
     <tr>

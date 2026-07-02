@@ -6,7 +6,7 @@
 
 An unofficial homage to the PwC deck: Georgia-style serif headlines in sentence case, the five warm colors, a fanned mosaic of translucent frames and a logo placeholder ready for your own brand. Not affiliated with PwC.
 
-**Category:** Finance & consulting &nbsp;·&nbsp; **Style:** Corporate, Warm &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Gelasio + Arimo
+**Category:** Consulting &nbsp;·&nbsp; **Style:** Corporate, Warm &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Gelasio + Arimo
 
 <table>
     <tr>

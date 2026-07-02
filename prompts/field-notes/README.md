@@ -51,7 +51,7 @@ Use this theme for my slides. Ask me what the presentation is about first, then 
 
 ## Fonts
 
-- **Courier Prime** (heading and body, Google Fonts)
+- **Courier Prime** (heading, Google Fonts)
 
 ---
 

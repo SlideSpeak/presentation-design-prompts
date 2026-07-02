@@ -6,7 +6,7 @@
 
 A synthwave sunset with a glowing grid floor, a striped sun and chrome headlines. Completely over the top, which is the point.
 
-**Category:** Marketing & brand &nbsp;·&nbsp; **Style:** Playful, Dark &nbsp;·&nbsp; **Mode:** Dark &nbsp;·&nbsp; **Fonts:** Orbitron + Exo 2
+**Category:** Marketing & brand &nbsp;·&nbsp; **Style:** Playful, Dark, Retro &nbsp;·&nbsp; **Mode:** Dark &nbsp;·&nbsp; **Fonts:** Orbitron + Exo 2
 
 <table>
     <tr>

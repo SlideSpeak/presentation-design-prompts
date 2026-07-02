@@ -6,7 +6,7 @@
 
 An 8-bit cabinet screen with a HUD score row on every slide. Panels get double borders, hearts are built from pixels and the chart is stacked blocks.
 
-**Category:** Tech & product &nbsp;·&nbsp; **Style:** Playful, Dark &nbsp;·&nbsp; **Mode:** Dark &nbsp;·&nbsp; **Fonts:** Press Start 2P + VT323
+**Category:** Tech & product &nbsp;·&nbsp; **Style:** Playful, Dark, Retro &nbsp;·&nbsp; **Mode:** Dark &nbsp;·&nbsp; **Fonts:** Press Start 2P + VT323
 
 <table>
     <tr>

@@ -6,7 +6,7 @@
 
 A classic investment banking pitch deck in navy and gold: football-field valuation charts, dense comps tables, tombstone credentials and a confidentiality mark on every page. Generic banking conventions with no specific firm referenced.
 
-**Category:** Finance & consulting &nbsp;·&nbsp; **Style:** Corporate, Elegant &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** EB Garamond + Arimo
+**Category:** Finance &nbsp;·&nbsp; **Style:** Corporate, Elegant &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** EB Garamond + Arimo
 
 <table>
     <tr>

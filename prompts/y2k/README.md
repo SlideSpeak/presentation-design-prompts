@@ -6,7 +6,7 @@
 
 A Y2K PowerPoint template look built from chrome-gradient headlines, airbrushed pink-and-cyan gradients, pixel sparkles and glossy bubble panels. Use it as a Y2K slides template prompt for product drops, lookbooks and any deck that should feel beamed in from the year 2000.
 
-**Category:** Creative & portfolio &nbsp;·&nbsp; **Style:** Playful, Bold &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Orbitron + Exo 2 + VT323
+**Category:** Creative & portfolio &nbsp;·&nbsp; **Style:** Playful, Bold, Retro &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Orbitron + Exo 2 + VT323
 
 <table>
     <tr>

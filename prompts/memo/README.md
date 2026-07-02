@@ -50,7 +50,7 @@ Use this theme for my slides. Ask me what the presentation is about first, then 
 
 ## Fonts
 
-- **Libre Caslon Text** (heading and body, Google Fonts)
+- **Libre Caslon Text** (heading, Google Fonts)
 
 ---
 

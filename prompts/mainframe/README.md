@@ -6,7 +6,7 @@
 
 Phosphor green on black, scanlines and a blinking cursor. Slides that look like a 1982 terminal session, down to the prompt.
 
-**Category:** Tech & product &nbsp;·&nbsp; **Style:** Tech, Dark &nbsp;·&nbsp; **Mode:** Dark &nbsp;·&nbsp; **Fonts:** VT323
+**Category:** Tech & product &nbsp;·&nbsp; **Style:** Tech, Dark, Retro &nbsp;·&nbsp; **Mode:** Dark &nbsp;·&nbsp; **Fonts:** VT323
 
 <table>
     <tr>
@@ -51,7 +51,7 @@ Use this theme for my slides. Ask me what the presentation is about first, then 
 
 ## Fonts
 
-- **VT323** (heading and body, Google Fonts)
+- **VT323** (heading, Google Fonts)
 
 ---
 

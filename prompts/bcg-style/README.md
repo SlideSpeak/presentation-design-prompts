@@ -6,7 +6,7 @@
 
 An unofficial homage to the classic BCG deck: green action titles over a double rule, an agenda tracker, the growth-share matrix with stars and dogs, and a logo placeholder ready for your own brand. Not affiliated with Boston Consulting Group.
 
-**Category:** Finance & consulting &nbsp;·&nbsp; **Style:** Corporate, Bold &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Arimo + Gelasio
+**Category:** Consulting &nbsp;·&nbsp; **Style:** Corporate, Bold &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Arimo + Gelasio
 
 <table>
     <tr>

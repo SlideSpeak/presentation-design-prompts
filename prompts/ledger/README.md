@@ -6,7 +6,7 @@
 
 Slides set on ruled ledger paper with a single red margin line. Totals get double underlines, just like the auditor wants.
 
-**Category:** Finance & consulting &nbsp;·&nbsp; **Style:** Elegant, Calm &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Libre Baskerville + Cutive Mono
+**Category:** Finance &nbsp;·&nbsp; **Style:** Elegant, Calm &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Libre Baskerville + Cutive Mono
 
 <table>
     <tr>

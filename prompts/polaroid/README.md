@@ -6,7 +6,7 @@
 
 White-framed instant photos taped to a warm wall, each tilted a few degrees. Captions go in the thick bottom margin, in italic serif.
 
-**Category:** Marketing & brand &nbsp;·&nbsp; **Style:** Warm, Playful &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Playfair Display + Work Sans
+**Category:** Marketing & brand &nbsp;·&nbsp; **Style:** Warm, Playful, Retro &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Playfair Display + Work Sans
 
 <table>
     <tr>

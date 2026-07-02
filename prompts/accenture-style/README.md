@@ -6,7 +6,7 @@
 
 The closest thing to an Accenture PowerPoint template you can prompt into existence: black covers with a giant purple > glyph, oversized #a100ff stat callouts, and hairline-ruled agendas for a slide deck that reads like a tech-consulting report. An unofficial homage inspired by Accenture's public visual style. Not affiliated with, endorsed by, or sponsored by Accenture.
 
-**Category:** Finance & consulting &nbsp;·&nbsp; **Style:** Corporate, Bold &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Archivo + Inter
+**Category:** Consulting &nbsp;·&nbsp; **Style:** Corporate, Bold &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Archivo + Inter
 
 <table>
     <tr>

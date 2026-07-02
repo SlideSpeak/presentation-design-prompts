@@ -6,7 +6,7 @@
 
 Ivory stationery with a double gold hairline border and a monogram seal. Everything is centered, serif and quiet.
 
-**Category:** Finance & consulting &nbsp;·&nbsp; **Style:** Elegant, Minimal &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Cormorant Garamond
+**Category:** Finance &nbsp;·&nbsp; **Style:** Elegant, Minimal &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Cormorant Garamond
 
 <table>
     <tr>
@@ -50,7 +50,7 @@ Use this theme for my slides. Ask me what the presentation is about first, then 
 
 ## Fonts
 
-- **Cormorant Garamond** (heading and body, Google Fonts)
+- **Cormorant Garamond** (heading, Google Fonts)
 
 ---
 

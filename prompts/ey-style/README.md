@@ -6,7 +6,7 @@
 
 An EY presentation template homage for PowerPoint and Google Slides: off-black #2E2E38 slides set in Barlow, with one acid yellow beam carrying every highlight, chart series and call to action. An unofficial homage to the EY presentation style. Not affiliated with, endorsed by, or approved by EY (Ernst & Young Global Limited).
 
-**Category:** Finance & consulting &nbsp;·&nbsp; **Style:** Corporate, Dark, Bold &nbsp;·&nbsp; **Mode:** Dark &nbsp;·&nbsp; **Fonts:** Barlow + Barlow Condensed
+**Category:** Consulting &nbsp;·&nbsp; **Style:** Corporate, Dark, Bold &nbsp;·&nbsp; **Mode:** Dark &nbsp;·&nbsp; **Fonts:** Barlow + Barlow Condensed
 
 <table>
     <tr>

@@ -6,7 +6,7 @@
 
 An unofficial homage to the McKinsey deck: serif action titles, deep navy and electric blue, a tracker contents page, waterfall bridges and a logo placeholder ready for your own brand. Not affiliated with McKinsey & Company.
 
-**Category:** Finance & consulting &nbsp;·&nbsp; **Style:** Corporate, Minimal &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Gelasio + Arimo
+**Category:** Consulting &nbsp;·&nbsp; **Style:** Corporate, Minimal &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Gelasio + Arimo
 
 <table>
     <tr>

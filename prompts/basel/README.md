@@ -51,7 +51,7 @@ Use this theme for my slides. Ask me what the presentation is about first, then 
 
 ## Fonts
 
-- **Archivo** (heading and body, Google Fonts)
+- **Archivo** (heading, Google Fonts)
 
 ---
 

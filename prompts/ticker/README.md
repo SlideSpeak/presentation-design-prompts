@@ -6,7 +6,7 @@
 
 Amber mono on pure black, like a market data terminal. A ticker strip runs across the top and the tables stay dense, green up, red down.
 
-**Category:** Finance & consulting &nbsp;·&nbsp; **Style:** Tech, Dark &nbsp;·&nbsp; **Mode:** Dark &nbsp;·&nbsp; **Fonts:** Share Tech Mono
+**Category:** Finance &nbsp;·&nbsp; **Style:** Tech, Dark &nbsp;·&nbsp; **Mode:** Dark &nbsp;·&nbsp; **Fonts:** Share Tech Mono
 
 <table>
     <tr>
@@ -50,7 +50,7 @@ Use this theme for my slides. Ask me what the presentation is about first, then 
 
 ## Fonts
 
-- **Share Tech Mono** (heading and body, Google Fonts)
+- **Share Tech Mono** (heading, Google Fonts)
 
 ---
 

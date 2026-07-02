@@ -51,7 +51,7 @@ Use this theme for my slides. Ask me what the presentation is about first, then 
 
 ## Fonts
 
-- **Source Serif 4** (heading and body, Google Fonts)
+- **Source Serif 4** (heading, Google Fonts)
 
 ---
 

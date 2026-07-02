@@ -6,7 +6,7 @@
 
 A Bain style presentation format for answer-first slides: full-sentence action titles over a red rule, gray charts with one #cc0000 highlight, so-what callout boxes and the signature NPS stacked-bar exhibit. An unofficial homage to the Bain & Company presentation style. Not affiliated with, endorsed by, or connected to Bain & Company.
 
-**Category:** Finance & consulting &nbsp;·&nbsp; **Style:** Corporate, Bold &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Archivo + Barlow Condensed
+**Category:** Consulting &nbsp;·&nbsp; **Style:** Corporate, Bold &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Archivo + Barlow Condensed
 
 <table>
     <tr>

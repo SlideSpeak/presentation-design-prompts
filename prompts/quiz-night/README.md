@@ -6,7 +6,7 @@
 
 A game show board for knowledge checks. The score strip at the bottom keeps every team honest.
 
-**Category:** Education & research &nbsp;·&nbsp; **Style:** Playful, Bold &nbsp;·&nbsp; **Mode:** Dark &nbsp;·&nbsp; **Fonts:** Alfa Slab One + Nunito
+**Category:** Events & seasonal &nbsp;·&nbsp; **Style:** Playful, Bold &nbsp;·&nbsp; **Mode:** Dark &nbsp;·&nbsp; **Fonts:** Alfa Slab One + Nunito
 
 <table>
     <tr>
