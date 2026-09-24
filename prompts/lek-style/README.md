@@ -1,0 +1,59 @@
+[← All prompts](../README.md) · [Live site](https://slidespeak.co/slide-design-prompts) · [SlideSpeak](https://slidespeak.co)
+
+# L.E.K. Style
+
+> Diligence answers, cut like an arrow
+
+An L.E.K. consulting presentation style for commercial due diligence: action titles behind a green arrow, a key questions scorecard, a market driver tree and survey exhibits in green and lime. An unofficial homage to the L.E.K. Consulting deck style. Not affiliated with, endorsed by, or connected to L.E.K. Consulting.
+
+**Category:** Consulting &nbsp;·&nbsp; **Style:** Corporate, Minimal &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Bitter + Outfit
+
+<table>
+    <tr>
+      <td align="center" width="33%"><img src="./previews/0.webp" alt="L.E.K. Style: Title" width="260"><br><sub>Title</sub></td>
+      <td align="center" width="33%"><img src="./previews/1.webp" alt="L.E.K. Style: Key questions scorecard" width="260"><br><sub>Key questions scorecard</sub></td>
+      <td align="center" width="33%"><img src="./previews/2.webp" alt="L.E.K. Style: Market driver tree" width="260"><br><sub>Market driver tree</sub></td>
+    </tr>
+    <tr>
+      <td align="center" width="33%"><img src="./previews/3.webp" alt="L.E.K. Style: Market sizing chart" width="260"><br><sub>Market sizing chart</sub></td>
+      <td align="center" width="33%"><img src="./previews/4.webp" alt="L.E.K. Style: Customer survey exhibit" width="260"><br><sub>Customer survey exhibit</sub></td>
+      <td align="center" width="33%"><img src="./previews/5.webp" alt="L.E.K. Style: Implications for the bid" width="260"><br><sub>Implications for the bid</sub></td>
+    </tr>
+</table>
+
+## The prompt
+
+Copy the prompt below into **ChatGPT**, **Claude**, or any AI chat — or grab the raw [`PROMPT.md`](./PROMPT.md). It asks what your presentation is about first, then applies the design to every slide.
+
+```text
+Create a presentation in the 'L.E.K. Style' theme, an unofficial homage to the commercial due diligence deck of a strategy consulting firm. Background: white (#ffffff) on content slides. Typography: 'Bitter' (Google Fonts), a slab serif, for slide titles at 24 to 28px bold and for large numbers; 'Outfit' for body text, labels and tables at 13 to 16px. Heading text #161a1a, body #3c4846, muted #66716f. Color: green #00973a is the primary accent, deep green #005123 for dark surfaces and emphasis, lime #a8d500 as the second accent, gray #c4cecc for context series, rules #d4dbda, panels #f3f4f4, soft green tint #e6f8ee. The signature motif is the arrow: a small green chevron cut with clip-path sits before every action title, verdict chips are cut with an arrow-shaped right edge, and the cover and closing slides carry a diagonal wedge on the right in #005123 and #00973a, cut at the same angle. Never use rounded cards. Every content slide opens with a full-sentence action title stating the finding, two lines maximum, left-aligned. Slide types: Title slide with 'Commercial due diligence' in green 13px, a project code name and the answer as the title in Bitter 40px, a 72px lime rule, then the audience and date. Key questions scorecard: a table of four diligence questions with a verdict chip each (Supportive in #00973a with white text, Neutral in #a8d500 with dark text, Concern in #3c4846 with white text) and a one-line finding. Market driver tree: the market total in a solid green node on the left, branching right into volume and price drivers, each node with its value in Bitter and its growth rate; connectors are 2px #c4cecc lines. Market sizing chart: stacked columns in #00973a and #a8d500 with values inside, forecast years hatched with diagonal stripes, and a deep green arrow across the top labelled with the CAGR. Customer survey exhibit: a dot plot of purchase criteria ranked by importance, the client in green dots against a competitor average in #3c4846. So-what boxes: #e6f8ee fill, 3px #00973a top border, a green label 'So what' or 'Implication' and one or two sentences. Closing implications: full #005123 background, lime label, white Bitter title, three implications under 3px #a8d500 rules. Footer on every slide: a 1px #d4dbda rule, 'Source:' and 'Note:' lines in 10px muted text bottom-left, the project code name, 'strictly confidential' and the page number bottom-right. Strictly avoid: the L.E.K. logo or wordmark, claiming affiliation with L.E.K. Consulting, rounded cards, drop shadows, gradients on content slides, purple or blue accents, topic titles like 'Market Overview', pie charts, 3D charts, legends where direct labels fit, stock photos, decorative icons, centered body text, more than one exhibit per slide, data slides without a source line.
+
+Use this theme for my slides. Ask me what the presentation is about first, then apply the theme to every slide.
+```
+
+**[Open ChatGPT ↗](https://chatgpt.com/)** &nbsp;·&nbsp; **[Open Claude ↗](https://claude.ai/new)** &nbsp;·&nbsp; **[Generate a finished deck with SlideSpeak ↗](https://app.slidespeak.co/presentation?utm_source=github&utm_medium=referral&utm_campaign=slide-design-prompts)**
+
+## Palette
+
+| Role | Hex |
+| --- | --- |
+| Background | `#ffffff` |
+| Surface / panel | `#f3f4f4` |
+| Border | `#d4dbda` |
+| Primary accent | `#00973a` |
+| Primary (soft tint) | `#e6f8ee` |
+| Text on primary | `#ffffff` |
+| Heading text | `#161a1a` |
+| Body text | `#3c4846` |
+| Muted text | `#66716f` |
+
+**Chart series:** `#00973a` `#005123` `#a8d500` `#c4cecc`
+
+## Fonts
+
+- **Bitter** (heading, Google Fonts)
+- **Outfit** (supporting, Google Fonts)
+
+---
+
+<sub>Part of [SlideSpeak Slide Design Prompts](../../README.md) · MIT licensed</sub>
