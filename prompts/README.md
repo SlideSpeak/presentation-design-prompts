@@ -1,6 +1,6 @@
 # All prompts
 
-81 slide design prompts, grouped by use case. Each links to its full page: preview, the prompt, palette, fonts and notes.
+93 slide design prompts, grouped by use case. Each links to its full page: preview, the prompt, palette, fonts and notes.
 
 [← Back to the gallery](../README.md) · [Live site](https://slidespeak.co/slide-design-prompts)
 
@@ -10,6 +10,7 @@ Themes that help you raise money. Dark backgrounds, big numbers, and layouts tha
 
 | Theme | Tagline | Style | Fonts |
 | --- | --- | --- | --- |
+| [**Airbnb Pitch Deck**](./airbnb-pitch-deck/) | The seed deck everyone copies, in coral | Warm, Minimal | Figtree |
 | [**Aurora**](./aurora/) | Gradient pitch deck for SaaS | Bold, Tech | Sora + Spline Sans Mono |
 | [**Demo Day**](./demo-day/) | Three minutes, one idea per slide | Bold, Minimal | Poppins |
 | [**Hearth**](./hearth/) | Warm, story-led brand pitch | Warm, Minimal | Fraunces + Karla |
@@ -35,6 +36,7 @@ Clean themes for quarterly reviews, strategy decks and operating plans. No clutt
 | [**Harvey**](./harvey/) | Maturity in quarter turns | Corporate, Minimal | Jost + DM Mono |
 | [**Memo**](./memo/) | Per my last memo | Minimal, Corporate | Libre Caslon Text |
 | [**Metro**](./metro/) | Mind the gap analysis | Playful, Minimal | Barlow Condensed + Barlow |
+| [**Netflix Culture Deck**](./netflix-culture-deck/) | Freedom, responsibility and nothing else on the slide | Minimal, Bold | Libre Franklin |
 | [**Operator**](./operator/) | Status, not stories | Corporate, Tech | IBM Plex Sans + IBM Plex Mono |
 | [**QBR**](./qbr/) | Targets, actuals, and the renewal story | Corporate, Minimal | Inter + IBM Plex Mono |
 | [**Six-Pager**](./six-pager/) | The memo that runs the meeting | Minimal, Corporate | Source Sans 3 + Gelasio + IBM Plex Mono |
@@ -62,6 +64,7 @@ Themes with personality for campaign plans, brand decks and creative reviews.
 | Theme | Tagline | Style | Fonts |
 | --- | --- | --- | --- |
 | [**Billboard**](./billboard/) | One color, one line | Bold, Playful | Anton |
+| [**Brand Guidelines**](./brand-guidelines/) | Brand rules, drawn to scale | Minimal, Bold | Schibsted Grotesk |
 | [**Bubblegum**](./bubblegum/) | Y2K sparkle with a system | Playful, Bold | Baloo 2 + Nunito |
 | [**Memphis**](./memphis/) | Serious work, unserious style | Playful, Bold, Retro | Baloo 2 + Nunito |
 | [**Outrun**](./outrun/) | Straight out of 1986 | Playful, Dark, Retro | Orbitron + Exo 2 |
@@ -75,9 +78,11 @@ Modern themes for product roadmaps, feature launches and engineering reviews.
 | Theme | Tagline | Style | Fonts |
 | --- | --- | --- | --- |
 | [**Arcade**](./arcade/) | Insert coin | Playful, Dark, Retro | Press Start 2P + VT323 |
+| [**Bento**](./bento/) | Big tiles for big news | Minimal, Tech | Geist |
 | [**Circuit**](./circuit/) | Follow the traces | Tech, Dark | Chakra Petch + Share Tech Mono |
 | [**Drafting Room**](./drafting-room/) | Measure twice, present once | Tech, Minimal | Saira + Spline Sans Mono |
 | [**Mainframe**](./mainframe/) | Straight from the machine room | Tech, Dark, Retro | VT323 |
+| [**Notion Style**](./notion-style/) | Your deck, written like a doc | Minimal, Calm | Inter |
 | [**Telemetry**](./telemetry/) | Your deck as a dashboard | Tech, Dark | IBM Plex Sans + IBM Plex Mono |
 | [**Wireframe**](./wireframe/) | Shipped before the visual design | Minimal, Tech | Inter + Roboto Mono |
 
@@ -90,6 +95,7 @@ Typography-led themes for portfolios, studios and personal work.
 | [**Art Deco**](./art-deco/) | Gold geometry for the modern jazz age | Elegant, Bold, Retro | Cinzel + Marcellus + Tenor Sans |
 | [**Atelier**](./atelier/) | Built like a blueprint | Minimal, Elegant | Jost + Spline Sans Mono |
 | [**Basel**](./basel/) | Loud type, nothing else | Bold, Minimal | Archivo |
+| [**Bauhaus**](./bauhaus/) | Circle, square, triangle, and nothing else | Bold, Retro | League Spartan |
 | [**Cinema**](./cinema/) | Quiet on set | Elegant, Dark | Cinzel + Space Mono |
 | [**Collage**](./collage/) | Scissors first, layout second | Playful, Warm | Bricolage Grotesque + Work Sans |
 | [**Coquette**](./coquette/) | Ribbons, blush and a cherry kiss | Elegant, Playful | Cormorant Garamond + Jost |
@@ -115,6 +121,8 @@ Easy-to-read themes for lectures, research and reports. Built so people can actu
 | [**Chalkboard**](./chalkboard/) | Drawn up at halftime | Playful, Dark | Permanent Marker + Schoolbell |
 | [**Expedition**](./expedition/) | Here be agenda items | Warm, Elegant | EB Garamond |
 | [**Field Notes**](./field-notes/) | Taped to the folder | Warm, Minimal | Courier Prime |
+| [**Grand Rounds**](./grand-rounds/) | Red means abnormal, nothing else | Calm, Corporate | Public Sans |
+| [**Harvard Style**](./harvard-style/) | The case method, one exhibit at a time | Elegant, Corporate | Alegreya + Alegreya Sans |
 | [**Herbarium**](./herbarium/) | Pressed, labeled, filed | Calm, Elegant | Crimson Pro + Karla |
 | [**Level Up**](./level-up/) | Earn the XP | Playful, Tech | Baloo 2 + JetBrains Mono |
 | [**Notebook**](./notebook/) | Margins included | Playful, Warm | Caveat + Patrick Hand |
@@ -134,7 +142,9 @@ Decks with a date on them: holiday recaps, office parties, quiz nights and pep r
 | [**Christmas**](./christmas/) | Festive polish, zero clipart kitsch | Warm, Playful | Playfair Display + Source Sans 3 + Caveat |
 | [**Halloween**](./halloween/) | Spooky season, classroom approved | Playful, Dark | Alfa Slab One + Baloo 2 + Schoolbell |
 | [**Quiz Night**](./quiz-night/) | Training, but with buzzers | Playful, Bold | Alfa Slab One + Nunito |
+| [**Sermon**](./sermon/) | Scripture first, readable from the back row | Calm, Dark, Elegant | Cardo + Outfit |
 | [**Varsity**](./varsity/) | Wear the colors | Bold, Warm, Retro | Archivo Black + Barlow |
+| [**Wrapped**](./wrapped/) | Your year, one stat at a time | Bold, Playful | Unbounded + Manrope |
 
 ### Finance
 
@@ -142,7 +152,9 @@ Understated themes for fund updates, board reports, banking decks and market com
 
 | Theme | Tagline | Style | Fonts |
 | --- | --- | --- | --- |
+| [**Annual Report**](./annual-report/) | The year, printed large | Corporate, Elegant | DM Serif Display + DM Sans |
 | [**Broadsheet**](./broadsheet/) | Read all about it | Elegant, Corporate | Playfair Display + Newsreader |
+| [**Economist Style**](./economist-style/) | Charts with a red tag and the axis on the right | Corporate, Minimal | Fira Sans + Merriweather |
 | [**Ledger**](./ledger/) | Every number reconciled | Elegant, Calm | Libre Baskerville + Cutive Mono |
 | [**Letterhead**](./letterhead/) | Engraved, not printed | Elegant, Minimal | Cormorant Garamond |
 | [**Pitch Book**](./pitch-book/) | Navy rigor, gold rules, dense conviction | Corporate, Elegant | EB Garamond + Arimo |

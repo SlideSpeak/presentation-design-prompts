@@ -7,7 +7,7 @@
 Free presentation design systems you paste into ChatGPT or Claude.
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Prompts](https://img.shields.io/badge/prompts-81-ff5533.svg)](prompts/README.md)
+[![Prompts](https://img.shields.io/badge/prompts-93-ff5533.svg)](prompts/README.md)
 [![Live site](https://img.shields.io/badge/live-slidespeak.co-111111.svg)](https://slidespeak.co/slide-design-prompts)
 
 [**Browse all prompts**](prompts/README.md) &nbsp;·&nbsp; [**Live site**](https://slidespeak.co/slide-design-prompts)
@@ -22,7 +22,7 @@ AI chat tools write decent slide content. Design is where they fall apart: clip-
 
 Each theme here is **one prompt** that carries a full design system: a color palette pinned to hex values, named Google Fonts, a layout grammar, and an avoid-list that stops the model from decorating. Paste it into ChatGPT or Claude, say what your talk covers, and every slide matches.
 
-**81 themes** across **7 use-case categories** and **9 visual styles**.
+**93 themes** across **9 use-case categories** and **10 visual styles**.
 
 ## How to use
 
@@ -53,6 +53,12 @@ Themes that help you raise money. Dark backgrounds, big numbers, and layouts tha
 <table>
   <tr>
     <td align="center" width="33%" valign="top">
+      <a href="prompts/airbnb-pitch-deck/"><img src="prompts/airbnb-pitch-deck/previews/0.webp" alt="Airbnb Pitch Deck" width="300"></a><br>
+      <a href="prompts/airbnb-pitch-deck/"><b>Airbnb Pitch Deck</b></a><br>
+      <sub>The seed deck everyone copies, in coral</sub><br>
+      <sub><i>Warm · Minimal</i></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
       <a href="prompts/aurora/"><img src="prompts/aurora/previews/0.webp" alt="Aurora" width="300"></a><br>
       <a href="prompts/aurora/"><b>Aurora</b></a><br>
       <sub>Gradient pitch deck for SaaS</sub><br>
@@ -64,14 +70,14 @@ Themes that help you raise money. Dark backgrounds, big numbers, and layouts tha
       <sub>Three minutes, one idea per slide</sub><br>
       <sub><i>Bold · Minimal</i></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/hearth/"><img src="prompts/hearth/previews/0.webp" alt="Hearth" width="300"></a><br>
       <a href="prompts/hearth/"><b>Hearth</b></a><br>
       <sub>Warm, story-led brand pitch</sub><br>
       <sub><i>Warm · Minimal</i></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/holo/"><img src="prompts/holo/previews/0.webp" alt="Holo" width="300"></a><br>
       <a href="prompts/holo/"><b>Holo</b></a><br>
@@ -84,14 +90,14 @@ Themes that help you raise money. Dark backgrounds, big numbers, and layouts tha
       <sub>One slide, one idea, zero clutter</sub><br>
       <sub><i>Minimal · Dark · Bold</i></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/midnight-pitch/"><img src="prompts/midnight-pitch/previews/0.webp" alt="Midnight Pitch" width="300"></a><br>
       <a href="prompts/midnight-pitch/"><b>Midnight Pitch</b></a><br>
       <sub>Make investors lean in</sub><br>
       <sub><i>Dark · Bold</i></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/monolith/"><img src="prompts/monolith/previews/0.webp" alt="Monolith" width="300"></a><br>
       <a href="prompts/monolith/"><b>Monolith</b></a><br>
@@ -104,14 +110,14 @@ Themes that help you raise money. Dark backgrounds, big numbers, and layouts tha
       <sub>Clean, light investor pitch deck</sub><br>
       <sub><i>Minimal · Corporate</i></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/spark/"><img src="prompts/spark/previews/0.webp" alt="Spark" width="300"></a><br>
       <a href="prompts/spark/"><b>Spark</b></a><br>
       <sub>Bold pink pitch for consumer apps</sub><br>
       <sub><i>Bold · Playful</i></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/term-sheet/"><img src="prompts/term-sheet/previews/0.webp" alt="Term Sheet" width="300"></a><br>
       <a href="prompts/term-sheet/"><b>Term Sheet</b></a><br>
@@ -180,19 +186,25 @@ Clean themes for quarterly reviews, strategy decks and operating plans. No clutt
       <sub><i>Playful · Minimal</i></sub>
     </td>
     <td align="center" width="33%" valign="top">
+      <a href="prompts/netflix-culture-deck/"><img src="prompts/netflix-culture-deck/previews/0.webp" alt="Netflix Culture Deck" width="300"></a><br>
+      <a href="prompts/netflix-culture-deck/"><b>Netflix Culture Deck</b></a><br>
+      <sub>Freedom, responsibility and nothing else on the slide</sub><br>
+      <sub><i>Minimal · Bold</i></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
       <a href="prompts/operator/"><img src="prompts/operator/previews/0.webp" alt="Operator" width="300"></a><br>
       <a href="prompts/operator/"><b>Operator</b></a><br>
       <sub>Status, not stories</sub><br>
       <sub><i>Corporate · Tech</i></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/qbr/"><img src="prompts/qbr/previews/0.webp" alt="QBR" width="300"></a><br>
       <a href="prompts/qbr/"><b>QBR</b></a><br>
       <sub>Targets, actuals, and the renewal story</sub><br>
       <sub><i>Corporate · Minimal</i></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/six-pager/"><img src="prompts/six-pager/previews/0.webp" alt="Six-Pager" width="300"></a><br>
       <a href="prompts/six-pager/"><b>Six-Pager</b></a><br>
@@ -282,19 +294,25 @@ Themes with personality for campaign plans, brand decks and creative reviews.
       <sub><i>Bold · Playful</i></sub>
     </td>
     <td align="center" width="33%" valign="top">
+      <a href="prompts/brand-guidelines/"><img src="prompts/brand-guidelines/previews/0.webp" alt="Brand Guidelines" width="300"></a><br>
+      <a href="prompts/brand-guidelines/"><b>Brand Guidelines</b></a><br>
+      <sub>Brand rules, drawn to scale</sub><br>
+      <sub><i>Minimal · Bold</i></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
       <a href="prompts/bubblegum/"><img src="prompts/bubblegum/previews/0.webp" alt="Bubblegum" width="300"></a><br>
       <a href="prompts/bubblegum/"><b>Bubblegum</b></a><br>
       <sub>Y2K sparkle with a system</sub><br>
       <sub><i>Playful · Bold</i></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/memphis/"><img src="prompts/memphis/previews/0.webp" alt="Memphis" width="300"></a><br>
       <a href="prompts/memphis/"><b>Memphis</b></a><br>
       <sub>Serious work, unserious style</sub><br>
       <sub><i>Playful · Bold · Retro</i></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/outrun/"><img src="prompts/outrun/previews/0.webp" alt="Outrun" width="300"></a><br>
       <a href="prompts/outrun/"><b>Outrun</b></a><br>
@@ -307,6 +325,8 @@ Themes with personality for campaign plans, brand decks and creative reviews.
       <sub>Pinned to the wall</sub><br>
       <sub><i>Warm · Playful · Retro</i></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/sorbet/"><img src="prompts/sorbet/previews/0.webp" alt="Sorbet" width="300"></a><br>
       <a href="prompts/sorbet/"><b>Sorbet</b></a><br>
@@ -329,25 +349,39 @@ Modern themes for product roadmaps, feature launches and engineering reviews.
       <sub><i>Playful · Dark · Retro</i></sub>
     </td>
     <td align="center" width="33%" valign="top">
+      <a href="prompts/bento/"><img src="prompts/bento/previews/0.webp" alt="Bento" width="300"></a><br>
+      <a href="prompts/bento/"><b>Bento</b></a><br>
+      <sub>Big tiles for big news</sub><br>
+      <sub><i>Minimal · Tech</i></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
       <a href="prompts/circuit/"><img src="prompts/circuit/previews/0.webp" alt="Circuit" width="300"></a><br>
       <a href="prompts/circuit/"><b>Circuit</b></a><br>
       <sub>Follow the traces</sub><br>
       <sub><i>Tech · Dark</i></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/drafting-room/"><img src="prompts/drafting-room/previews/0.webp" alt="Drafting Room" width="300"></a><br>
       <a href="prompts/drafting-room/"><b>Drafting Room</b></a><br>
       <sub>Measure twice, present once</sub><br>
       <sub><i>Tech · Minimal</i></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/mainframe/"><img src="prompts/mainframe/previews/0.webp" alt="Mainframe" width="300"></a><br>
       <a href="prompts/mainframe/"><b>Mainframe</b></a><br>
       <sub>Straight from the machine room</sub><br>
       <sub><i>Tech · Dark · Retro</i></sub>
     </td>
+    <td align="center" width="33%" valign="top">
+      <a href="prompts/notion-style/"><img src="prompts/notion-style/previews/0.webp" alt="Notion Style" width="300"></a><br>
+      <a href="prompts/notion-style/"><b>Notion Style</b></a><br>
+      <sub>Your deck, written like a doc</sub><br>
+      <sub><i>Minimal · Calm</i></sub>
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/telemetry/"><img src="prompts/telemetry/previews/0.webp" alt="Telemetry" width="300"></a><br>
       <a href="prompts/telemetry/"><b>Telemetry</b></a><br>
@@ -390,6 +424,12 @@ Typography-led themes for portfolios, studios and personal work.
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
+      <a href="prompts/bauhaus/"><img src="prompts/bauhaus/previews/0.webp" alt="Bauhaus" width="300"></a><br>
+      <a href="prompts/bauhaus/"><b>Bauhaus</b></a><br>
+      <sub>Circle, square, triangle, and nothing else</sub><br>
+      <sub><i>Bold · Retro</i></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
       <a href="prompts/cinema/"><img src="prompts/cinema/previews/0.webp" alt="Cinema" width="300"></a><br>
       <a href="prompts/cinema/"><b>Cinema</b></a><br>
       <sub>Quiet on set</sub><br>
@@ -401,14 +441,14 @@ Typography-led themes for portfolios, studios and personal work.
       <sub>Scissors first, layout second</sub><br>
       <sub><i>Playful · Warm</i></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/coquette/"><img src="prompts/coquette/previews/0.webp" alt="Coquette" width="300"></a><br>
       <a href="prompts/coquette/"><b>Coquette</b></a><br>
       <sub>Ribbons, blush and a cherry kiss</sub><br>
       <sub><i>Elegant · Playful</i></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/dark-academia/"><img src="prompts/dark-academia/previews/0.webp" alt="Dark Academia" width="300"></a><br>
       <a href="prompts/dark-academia/"><b>Dark Academia</b></a><br>
@@ -421,14 +461,14 @@ Typography-led themes for portfolios, studios and personal work.
       <sub>The pitch in one page</sub><br>
       <sub><i>Minimal · Elegant</i></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/lookbook/"><img src="prompts/lookbook/previews/0.webp" alt="Lookbook" width="300"></a><br>
       <a href="prompts/lookbook/"><b>Lookbook</b></a><br>
       <sub>Mood, tone and frame</sub><br>
       <sub><i>Elegant · Dark</i></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/manuscript/"><img src="prompts/manuscript/previews/0.webp" alt="Manuscript" width="300"></a><br>
       <a href="prompts/manuscript/"><b>Manuscript</b></a><br>
@@ -441,14 +481,14 @@ Typography-led themes for portfolios, studios and personal work.
       <sub>Make it an occasion</sub><br>
       <sub><i>Elegant · Dark</i></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/oat/"><img src="prompts/oat/previews/0.webp" alt="Oat" width="300"></a><br>
       <a href="prompts/oat/"><b>Oat</b></a><br>
       <sub>Warm neutrals, quiet arches, expensive calm</sub><br>
       <sub><i>Minimal · Calm</i></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/one-sheet/"><img src="prompts/one-sheet/previews/0.webp" alt="One Sheet" width="300"></a><br>
       <a href="prompts/one-sheet/"><b>One Sheet</b></a><br>
@@ -461,14 +501,14 @@ Typography-led themes for portfolios, studios and personal work.
       <sub>Folded, not decorated</sub><br>
       <sub><i>Minimal · Calm</i></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/passepartout/"><img src="prompts/passepartout/previews/0.webp" alt="Passepartout" width="300"></a><br>
       <a href="prompts/passepartout/"><b>Passepartout</b></a><br>
       <sub>A gallery on every slide</sub><br>
       <sub><i>Elegant · Calm</i></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/scrapbook/"><img src="prompts/scrapbook/previews/0.webp" alt="Scrapbook" width="300"></a><br>
       <a href="prompts/scrapbook/"><b>Scrapbook</b></a><br>
@@ -517,6 +557,20 @@ Easy-to-read themes for lectures, research and reports. Built so people can actu
       <sub><i>Warm · Minimal</i></sub>
     </td>
     <td align="center" width="33%" valign="top">
+      <a href="prompts/grand-rounds/"><img src="prompts/grand-rounds/previews/0.webp" alt="Grand Rounds" width="300"></a><br>
+      <a href="prompts/grand-rounds/"><b>Grand Rounds</b></a><br>
+      <sub>Red means abnormal, nothing else</sub><br>
+      <sub><i>Calm · Corporate</i></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="prompts/harvard-style/"><img src="prompts/harvard-style/previews/0.webp" alt="Harvard Style" width="300"></a><br>
+      <a href="prompts/harvard-style/"><b>Harvard Style</b></a><br>
+      <sub>The case method, one exhibit at a time</sub><br>
+      <sub><i>Elegant · Corporate</i></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top">
       <a href="prompts/herbarium/"><img src="prompts/herbarium/previews/0.webp" alt="Herbarium" width="300"></a><br>
       <a href="prompts/herbarium/"><b>Herbarium</b></a><br>
       <sub>Pressed, labeled, filed</sub><br>
@@ -528,14 +582,14 @@ Easy-to-read themes for lectures, research and reports. Built so people can actu
       <sub>Earn the XP</sub><br>
       <sub><i>Playful · Tech</i></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/notebook/"><img src="prompts/notebook/previews/0.webp" alt="Notebook" width="300"></a><br>
       <a href="prompts/notebook/"><b>Notebook</b></a><br>
       <sub>Margins included</sub><br>
       <sub><i>Playful · Warm</i></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/observatory/"><img src="prompts/observatory/previews/0.webp" alt="Observatory" width="300"></a><br>
       <a href="prompts/observatory/"><b>Observatory</b></a><br>
@@ -548,14 +602,14 @@ Easy-to-read themes for lectures, research and reports. Built so people can actu
       <sub>Beamer, but nicer</sub><br>
       <sub><i>Minimal · Corporate</i></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/syllabus/"><img src="prompts/syllabus/previews/0.webp" alt="Syllabus" width="300"></a><br>
       <a href="prompts/syllabus/"><b>Syllabus</b></a><br>
       <sub>The outline is the design</sub><br>
       <sub><i>Calm · Playful</i></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/ted-style/"><img src="prompts/ted-style/previews/0.webp" alt="TED Style" width="300"></a><br>
       <a href="prompts/ted-style/"><b>TED Style</b></a><br>
@@ -568,8 +622,6 @@ Easy-to-read themes for lectures, research and reports. Built so people can actu
       <sub>Learning, one mile at a time</sub><br>
       <sub><i>Warm · Calm</i></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/wildflower/"><img src="prompts/wildflower/previews/0.webp" alt="Wildflower" width="300"></a><br>
       <a href="prompts/wildflower/"><b>Wildflower</b></a><br>
@@ -606,10 +658,22 @@ Decks with a date on them: holiday recaps, office parties, quiz nights and pep r
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
+      <a href="prompts/sermon/"><img src="prompts/sermon/previews/0.webp" alt="Sermon" width="300"></a><br>
+      <a href="prompts/sermon/"><b>Sermon</b></a><br>
+      <sub>Scripture first, readable from the back row</sub><br>
+      <sub><i>Calm · Dark · Elegant</i></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
       <a href="prompts/varsity/"><img src="prompts/varsity/previews/0.webp" alt="Varsity" width="300"></a><br>
       <a href="prompts/varsity/"><b>Varsity</b></a><br>
       <sub>Wear the colors</sub><br>
       <sub><i>Bold · Warm · Retro</i></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="prompts/wrapped/"><img src="prompts/wrapped/previews/0.webp" alt="Wrapped" width="300"></a><br>
+      <a href="prompts/wrapped/"><b>Wrapped</b></a><br>
+      <sub>Your year, one stat at a time</sub><br>
+      <sub><i>Bold · Playful</i></sub>
     </td>
   </tr>
 </table>
@@ -621,11 +685,25 @@ Understated themes for fund updates, board reports, banking decks and market com
 <table>
   <tr>
     <td align="center" width="33%" valign="top">
+      <a href="prompts/annual-report/"><img src="prompts/annual-report/previews/0.webp" alt="Annual Report" width="300"></a><br>
+      <a href="prompts/annual-report/"><b>Annual Report</b></a><br>
+      <sub>The year, printed large</sub><br>
+      <sub><i>Corporate · Elegant</i></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
       <a href="prompts/broadsheet/"><img src="prompts/broadsheet/previews/0.webp" alt="Broadsheet" width="300"></a><br>
       <a href="prompts/broadsheet/"><b>Broadsheet</b></a><br>
       <sub>Read all about it</sub><br>
       <sub><i>Elegant · Corporate</i></sub>
     </td>
+    <td align="center" width="33%" valign="top">
+      <a href="prompts/economist-style/"><img src="prompts/economist-style/previews/0.webp" alt="Economist Style" width="300"></a><br>
+      <a href="prompts/economist-style/"><b>Economist Style</b></a><br>
+      <sub>Charts with a red tag and the axis on the right</sub><br>
+      <sub><i>Corporate · Minimal</i></sub>
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/ledger/"><img src="prompts/ledger/previews/0.webp" alt="Ledger" width="300"></a><br>
       <a href="prompts/ledger/"><b>Ledger</b></a><br>
@@ -638,14 +716,14 @@ Understated themes for fund updates, board reports, banking decks and market com
       <sub>Engraved, not printed</sub><br>
       <sub><i>Elegant · Minimal</i></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/pitch-book/"><img src="prompts/pitch-book/previews/0.webp" alt="Pitch Book" width="300"></a><br>
       <a href="prompts/pitch-book/"><b>Pitch Book</b></a><br>
       <sub>Navy rigor, gold rules, dense conviction</sub><br>
       <sub><i>Corporate · Elegant</i></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/ticker/"><img src="prompts/ticker/previews/0.webp" alt="Ticker" width="300"></a><br>
       <a href="prompts/ticker/"><b>Ticker</b></a><br>
@@ -657,7 +735,7 @@ Understated themes for fund updates, board reports, banking decks and market com
 
 ## Categories and styles
 
-Themes sit on two axes. Categories say what a deck is for: pitch, business, marketing, tech, creative, education, finance. Styles say what it looks like: minimal, bold, elegant, playful, corporate, calm, warm, dark, tech. A theme can carry more than one style.
+Themes sit on two axes. Categories say what a deck is for: pitch, business, consulting, marketing, tech, creative, education, events, finance. Styles say what it looks like: minimal, bold, elegant, playful, corporate, calm, warm, dark, tech, retro. A theme can carry more than one style.
 
 ## Contributing
 
@@ -667,7 +745,7 @@ A theme is a folder with a prompt, a short page, and slide previews, so new them
 
 [MIT](LICENSE). Use the prompts and previews for anything, commercial work included. Credit to SlideSpeak is optional but welcome.
 
-The consulting-style themes (McKinsey Style, BCG Style, Deloitte Style, PwC Style) are **unofficial homages** built from publicly documented deck conventions. They are not affiliated with, endorsed by, or produced by those firms, and claim no rights to their trademarks.
+The brand-style themes (the consulting firm styles, TED Style, Keynote Minimal, Six-Pager, Airbnb Pitch Deck, Netflix Culture Deck, Notion Style, Economist Style, Harvard Style and Wrapped) are **unofficial homages** built from publicly documented conventions. They are not affiliated with, endorsed by, or produced by those companies, and claim no rights to their trademarks.
 
 ## About SlideSpeak
 
