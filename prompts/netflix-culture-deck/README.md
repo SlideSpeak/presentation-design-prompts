@@ -4,7 +4,7 @@
 
 > Freedom, responsibility and nothing else on the slide
 
-A Netflix culture deck format for writing down how your company actually works: text-only white slides, red section titles, big black statements, a values roster, a context-not-control table and the keeper test. An unofficial homage to the 2009 Netflix culture deck. Not affiliated with, endorsed by, or connected to Netflix, Inc.
+A Netflix culture deck format for writing down how your company works: text-only white slides, red section titles, big black statements, a values roster, a context-not-control table and the keeper test. An unofficial homage to the 2009 Netflix culture deck. Not affiliated with, endorsed by, or connected to Netflix, Inc.
 
 **Category:** Business & strategy &nbsp;·&nbsp; **Style:** Minimal, Bold &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Libre Franklin
 

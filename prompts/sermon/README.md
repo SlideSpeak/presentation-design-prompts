@@ -4,7 +4,7 @@
 
 > Scripture first, readable from the back row
 
-Sermon slides built for the projector: large Cardo scripture with verse numbers, a three-point outline, and a colored band on the left edge that follows the liturgical season. A church presentation template for Sunday services, series and small groups.
+Sermon slides for the projector, with large Cardo scripture and verse numbers, a three-point outline, and a colored band on the left edge that follows the liturgical season. A church presentation template for Sunday services, sermon series and small groups.
 
 **Category:** Events & seasonal &nbsp;·&nbsp; **Style:** Calm, Dark, Elegant &nbsp;·&nbsp; **Mode:** Dark &nbsp;·&nbsp; **Fonts:** Cardo + Outfit
 

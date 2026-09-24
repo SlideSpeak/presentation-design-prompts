@@ -4,7 +4,7 @@
 
 > The year, printed large
 
-An annual report presentation built like the printed book: a giant cropped year numeral on the cover, KPI sentences with five-year spark bars, a CEO letter with a signature, and five-year charts and tables that always put the current year in evergreen. Use it as an annual report template prompt for results decks, shareholder meetings and impact reviews.
+An annual report presentation modeled on the printed book: a giant cropped year on the cover, KPI rows with five-year spark bars, a signed CEO letter, and five-year charts and tables with the current year in evergreen. Use it as an annual report template prompt for results decks, shareholder meetings and impact reviews.
 
 **Category:** Finance &nbsp;·&nbsp; **Style:** Corporate, Elegant &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** DM Serif Display + DM Sans
 

@@ -4,7 +4,7 @@
 
 > The case method, one exhibit at a time
 
-A Harvard presentation template prompt built on the case method: a protagonist's dilemma, numbered exhibits with source notes, discussion questions and a single crimson bar on white. Use it for a Harvard case study presentation, a class discussion or an academic talk. An unofficial homage to the Harvard Business School case format. Not affiliated with, endorsed by, or connected to Harvard University or Harvard Business School.
+A Harvard case study presentation prompt built on the case method: a protagonist's dilemma, numbered exhibits with source notes, discussion questions and a single crimson bar on white. Use it for a class discussion, a case competition or an academic talk. An unofficial homage to the Harvard Business School case format. Not affiliated with, endorsed by, or connected to Harvard University or Harvard Business School.
 
 **Category:** Education & research &nbsp;·&nbsp; **Style:** Elegant, Corporate &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Alegreya + Alegreya Sans
 

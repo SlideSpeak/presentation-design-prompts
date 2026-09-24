@@ -2,9 +2,9 @@
 
 # Bento
 
-> Every idea gets its own tile
+> Big tiles for big news
 
-A bento grid presentation for product launches and updates: every slide is a modular grid of tiles in deliberately different sizes, one sunflower tile for the headline fact, one ink tile for contrast, and no shadows anywhere. Built as a prompt for bento slides that look like a launch page, not a stack of identical cards.
+A bento grid presentation for product launches and updates. Each slide is a grid of white tiles in mixed sizes on light gray, with one sunflower tile for the key fact, one optional ink tile and no shadows. Paste the prompt into ChatGPT or Claude to get bento slides that look like a launch page.
 
 **Category:** Tech & product &nbsp;·&nbsp; **Style:** Minimal, Tech &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Geist
 

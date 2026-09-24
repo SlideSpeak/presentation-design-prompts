@@ -2,9 +2,9 @@
 
 # Economist Style
 
-> Red tag, witty title, right-hand axis
+> Charts with a red tag and the axis on the right
 
-Economist style charts for your slides: the red rule and hanging red tag, a short witty title over a plain-English subtitle, y-axis labels on the right, direct series labels and a source line on every exhibit, with leader-style argument slides in between. An unofficial homage to the chart style of The Economist. Not affiliated with, endorsed by, or connected to The Economist Group.
+Economist style charts for your slides: a red rule with a hanging red tag, a short witty title over a plain subtitle, y-axis labels on the right, direct series labels and a source line on each chart. Argument slides in the style of a leader sit between the charts. An unofficial homage to the chart style of The Economist. Not affiliated with, endorsed by, or connected to The Economist Group.
 
 **Category:** Finance &nbsp;·&nbsp; **Style:** Corporate, Minimal &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Fira Sans + Merriweather
 

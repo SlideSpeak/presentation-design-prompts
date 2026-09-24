@@ -2,9 +2,9 @@
 
 # Brand Guidelines
 
-> Every rule, measured and annotated
+> Brand rules, drawn to scale
 
-A brand guidelines template prompt that turns your brand book into a presentation: logo clear space drawn with blue dimension lines, color swatches with HEX, RGB and CMYK values, a type specimen, do and don't tiles and a voice chart. Built for brand launches, agency handovers and onboarding new designers.
+A brand guidelines template prompt that turns your brand book into slides. Blue dimension lines measure logo clear space, swatches list HEX, RGB and CMYK values, and the deck adds a type specimen, do and don't tiles and a voice chart. Use it for brand launches, agency handovers and onboarding new designers.
 
 **Category:** Marketing & brand &nbsp;·&nbsp; **Style:** Minimal, Bold &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Schibsted Grotesk
 

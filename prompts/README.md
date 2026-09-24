@@ -64,7 +64,7 @@ Themes with personality for campaign plans, brand decks and creative reviews.
 | Theme | Tagline | Style | Fonts |
 | --- | --- | --- | --- |
 | [**Billboard**](./billboard/) | One color, one line | Bold, Playful | Anton |
-| [**Brand Guidelines**](./brand-guidelines/) | Every rule, measured and annotated | Minimal, Bold | Schibsted Grotesk |
+| [**Brand Guidelines**](./brand-guidelines/) | Brand rules, drawn to scale | Minimal, Bold | Schibsted Grotesk |
 | [**Bubblegum**](./bubblegum/) | Y2K sparkle with a system | Playful, Bold | Baloo 2 + Nunito |
 | [**Memphis**](./memphis/) | Serious work, unserious style | Playful, Bold, Retro | Baloo 2 + Nunito |
 | [**Outrun**](./outrun/) | Straight out of 1986 | Playful, Dark, Retro | Orbitron + Exo 2 |
@@ -78,7 +78,7 @@ Modern themes for product roadmaps, feature launches and engineering reviews.
 | Theme | Tagline | Style | Fonts |
 | --- | --- | --- | --- |
 | [**Arcade**](./arcade/) | Insert coin | Playful, Dark, Retro | Press Start 2P + VT323 |
-| [**Bento**](./bento/) | Every idea gets its own tile | Minimal, Tech | Geist |
+| [**Bento**](./bento/) | Big tiles for big news | Minimal, Tech | Geist |
 | [**Circuit**](./circuit/) | Follow the traces | Tech, Dark | Chakra Petch + Share Tech Mono |
 | [**Drafting Room**](./drafting-room/) | Measure twice, present once | Tech, Minimal | Saira + Spline Sans Mono |
 | [**Mainframe**](./mainframe/) | Straight from the machine room | Tech, Dark, Retro | VT323 |
@@ -154,7 +154,7 @@ Understated themes for fund updates, board reports, banking decks and market com
 | --- | --- | --- | --- |
 | [**Annual Report**](./annual-report/) | The year, printed large | Corporate, Elegant | DM Serif Display + DM Sans |
 | [**Broadsheet**](./broadsheet/) | Read all about it | Elegant, Corporate | Playfair Display + Newsreader |
-| [**Economist Style**](./economist-style/) | Red tag, witty title, right-hand axis | Corporate, Minimal | Fira Sans + Merriweather |
+| [**Economist Style**](./economist-style/) | Charts with a red tag and the axis on the right | Corporate, Minimal | Fira Sans + Merriweather |
 | [**Ledger**](./ledger/) | Every number reconciled | Elegant, Calm | Libre Baskerville + Cutive Mono |
 | [**Letterhead**](./letterhead/) | Engraved, not printed | Elegant, Minimal | Cormorant Garamond |
 | [**Pitch Book**](./pitch-book/) | Navy rigor, gold rules, dense conviction | Corporate, Elegant | EB Garamond + Arimo |

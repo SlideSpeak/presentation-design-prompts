@@ -4,7 +4,7 @@
 
 > Your year, one stat at a time
 
-A year in review presentation built like a Spotify Wrapped template: one giant stat per slide, clashing duotone color pairs, a ranked top 5 and a shareable summary card to close. An unofficial homage to the Spotify Wrapped format. Not affiliated with, endorsed by, or connected to Spotify AB.
+A year in review presentation in the style of a Spotify Wrapped template, with one giant stat per slide, clashing duotone color pairs, a ranked top 5 and a summary card to share at the end. An unofficial homage to the Spotify Wrapped format. Not affiliated with, endorsed by, or connected to Spotify AB.
 
 **Category:** Events & seasonal &nbsp;·&nbsp; **Style:** Bold, Playful &nbsp;·&nbsp; **Mode:** Dark &nbsp;·&nbsp; **Fonts:** Unbounded + Manrope
 

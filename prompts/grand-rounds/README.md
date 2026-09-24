@@ -4,7 +4,7 @@
 
 > Red means abnormal, nothing else
 
-A medical presentation template prompt for case presentations and grand rounds: ECG-paper strips, flagged lab tables, a ranked differential and a day-by-day hospital course, in navy with red reserved for abnormal findings. Built for residents, fellows and students presenting a case to a department.
+A medical case presentation prompt for grand rounds, morning report and student cases: ECG-paper strips, flagged lab tables, a ranked differential and a day-by-day hospital course. Headings are navy, and red marks abnormal findings only.
 
 **Category:** Education & research &nbsp;·&nbsp; **Style:** Calm, Corporate &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Public Sans
 

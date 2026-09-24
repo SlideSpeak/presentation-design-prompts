@@ -4,7 +4,7 @@
 
 > The seed deck everyone copies, in coral
 
-An Airbnb pitch deck template prompt built on the famous 2009 seed deck's slide order: plain two-word titles, nested market-size circles, a one-line business model equation and the affordable versus online competition 2x2, all on white with one coral accent. An unofficial homage to the Airbnb pitch deck. Not affiliated with, endorsed by, or connected to Airbnb, Inc.
+An Airbnb pitch deck template prompt that follows the slide order of the famous 2009 seed deck: two-word titles, nested market-size circles, a one-line business model equation and a competition 2x2, all on white with one coral accent. An unofficial homage to the Airbnb pitch deck. Not affiliated with, endorsed by, or connected to Airbnb, Inc.
 
 **Category:** Pitch decks &nbsp;·&nbsp; **Style:** Warm, Minimal &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Figtree
 

@@ -4,7 +4,7 @@
 
 > Circle, square, triangle, and nothing else
 
-A Bauhaus presentation built from the school's primary-color geometry: a red square for emphasis, a blue circle for data, a yellow triangle for direction, heavy black bars and all-lowercase League Spartan type. Use it as a Bauhaus aesthetic slides prompt for design talks, product launches and creative pitches that should carry a poster's confidence.
+A Bauhaus presentation built from the school's primary-color geometry: a red square for emphasis, a blue circle for data, a yellow triangle for direction, heavy black bars and all-lowercase League Spartan type. Use it as a Bauhaus aesthetic slides prompt for design talks, product launches and creative pitches.
 
 **Category:** Creative & portfolio &nbsp;·&nbsp; **Style:** Bold, Retro &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** League Spartan
 

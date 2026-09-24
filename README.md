@@ -296,7 +296,7 @@ Themes with personality for campaign plans, brand decks and creative reviews.
     <td align="center" width="33%" valign="top">
       <a href="prompts/brand-guidelines/"><img src="prompts/brand-guidelines/previews/0.webp" alt="Brand Guidelines" width="300"></a><br>
       <a href="prompts/brand-guidelines/"><b>Brand Guidelines</b></a><br>
-      <sub>Every rule, measured and annotated</sub><br>
+      <sub>Brand rules, drawn to scale</sub><br>
       <sub><i>Minimal · Bold</i></sub>
     </td>
     <td align="center" width="33%" valign="top">
@@ -351,7 +351,7 @@ Modern themes for product roadmaps, feature launches and engineering reviews.
     <td align="center" width="33%" valign="top">
       <a href="prompts/bento/"><img src="prompts/bento/previews/0.webp" alt="Bento" width="300"></a><br>
       <a href="prompts/bento/"><b>Bento</b></a><br>
-      <sub>Every idea gets its own tile</sub><br>
+      <sub>Big tiles for big news</sub><br>
       <sub><i>Minimal · Tech</i></sub>
     </td>
     <td align="center" width="33%" valign="top">
@@ -699,7 +699,7 @@ Understated themes for fund updates, board reports, banking decks and market com
     <td align="center" width="33%" valign="top">
       <a href="prompts/economist-style/"><img src="prompts/economist-style/previews/0.webp" alt="Economist Style" width="300"></a><br>
       <a href="prompts/economist-style/"><b>Economist Style</b></a><br>
-      <sub>Red tag, witty title, right-hand axis</sub><br>
+      <sub>Charts with a red tag and the axis on the right</sub><br>
       <sub><i>Corporate · Minimal</i></sub>
     </td>
   </tr>

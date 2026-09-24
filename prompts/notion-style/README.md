@@ -4,7 +4,7 @@
 
 > Your deck, written like a doc
 
-A Notion presentation style that turns every slide into a page: emoji page icons, gray property rows, callout blocks, toggles, checkboxes and database table and board views in Notion's light tag colors. An unofficial homage to the Notion workspace look. Not affiliated with, endorsed by, or connected to Notion Labs, Inc.
+A Notion presentation style where each slide is a Notion page, with emoji page icons, gray property rows, callouts, toggles, checkboxes, and table and board views in Notion's light tag colors. An unofficial homage to the Notion workspace look. Not affiliated with, endorsed by, or connected to Notion Labs, Inc.
 
 **Category:** Tech & product &nbsp;·&nbsp; **Style:** Minimal, Calm &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Inter
 
