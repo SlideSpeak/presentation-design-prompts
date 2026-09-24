@@ -7,7 +7,7 @@
 Free presentation design systems you paste into ChatGPT or Claude.
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Prompts](https://img.shields.io/badge/prompts-93-ff5533.svg)](prompts/README.md)
+[![Prompts](https://img.shields.io/badge/prompts-103-ff5533.svg)](prompts/README.md)
 [![Live site](https://img.shields.io/badge/live-slidespeak.co-111111.svg)](https://slidespeak.co/slide-design-prompts)
 
 [**Browse all prompts**](prompts/README.md) &nbsp;·&nbsp; [**Live site**](https://slidespeak.co/slide-design-prompts)
@@ -22,7 +22,7 @@ AI chat tools write decent slide content. Design is where they fall apart: clip-
 
 Each theme here is **one prompt** that carries a full design system: a color palette pinned to hex values, named Google Fonts, a layout grammar, and an avoid-list that stops the model from decorating. Paste it into ChatGPT or Claude, say what your talk covers, and every slide matches.
 
-**93 themes** across **9 use-case categories** and **10 visual styles**.
+**103 themes** across **9 use-case categories** and **10 visual styles**.
 
 ## How to use
 
@@ -113,6 +113,12 @@ Themes that help you raise money. Dark backgrounds, big numbers, and layouts tha
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
+      <a href="prompts/sequoia-pitch-deck/"><img src="prompts/sequoia-pitch-deck/previews/0.webp" alt="Sequoia Pitch Deck" width="300"></a><br>
+      <a href="prompts/sequoia-pitch-deck/"><b>Sequoia Pitch Deck</b></a><br>
+      <sub>Ten questions, in order, on every slide</sub><br>
+      <sub><i>Minimal · Corporate</i></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
       <a href="prompts/spark/"><img src="prompts/spark/previews/0.webp" alt="Spark" width="300"></a><br>
       <a href="prompts/spark/"><b>Spark</b></a><br>
       <sub>Bold pink pitch for consumer apps</sub><br>
@@ -124,6 +130,8 @@ Themes that help you raise money. Dark backgrounds, big numbers, and layouts tha
       <sub>The institutional VC framework deck</sub><br>
       <sub><i>Corporate · Minimal</i></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/traction/"><img src="prompts/traction/previews/0.webp" alt="Traction" width="300"></a><br>
       <a href="prompts/traction/"><b>Traction</b></a><br>
@@ -259,9 +267,29 @@ Unofficial homages to the deck traditions of McKinsey, BCG, Bain, the Big 4 and 
       <sub><i>Corporate · Dark · Bold</i></sub>
     </td>
     <td align="center" width="33%" valign="top">
+      <a href="prompts/gartner-style/"><img src="prompts/gartner-style/previews/0.webp" alt="Gartner Style" width="300"></a><br>
+      <a href="prompts/gartner-style/"><b>Gartner Style</b></a><br>
+      <sub>Research note grammar, quadrant and curve included</sub><br>
+      <sub><i>Corporate · Tech</i></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <a href="prompts/kearney-style/"><img src="prompts/kearney-style/previews/0.webp" alt="Kearney Style" width="300"></a><br>
+      <a href="prompts/kearney-style/"><b>Kearney Style</b></a><br>
+      <sub>White, slate and one purple row</sub><br>
+      <sub><i>Corporate · Minimal</i></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
       <a href="prompts/kpmg-style/"><img src="prompts/kpmg-style/previews/0.webp" alt="KPMG Style" width="300"></a><br>
       <a href="prompts/kpmg-style/"><b>KPMG Style</b></a><br>
       <sub>Audit-grade clarity in KPMG blue</sub><br>
+      <sub><i>Corporate · Minimal</i></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="prompts/lek-style/"><img src="prompts/lek-style/previews/0.webp" alt="L.E.K. Style" width="300"></a><br>
+      <a href="prompts/lek-style/"><b>L.E.K. Style</b></a><br>
+      <sub>Diligence answers, cut like an arrow</sub><br>
       <sub><i>Corporate · Minimal</i></sub>
     </td>
   </tr>
@@ -273,10 +301,24 @@ Unofficial homages to the deck traditions of McKinsey, BCG, Bain, the Big 4 and 
       <sub><i>Corporate · Minimal</i></sub>
     </td>
     <td align="center" width="33%" valign="top">
+      <a href="prompts/oliver-wyman-style/"><img src="prompts/oliver-wyman-style/previews/0.webp" alt="Oliver Wyman Style" width="300"></a><br>
+      <a href="prompts/oliver-wyman-style/"><b>Oliver Wyman Style</b></a><br>
+      <sub>Action title on top, the so-what in a bumper below</sub><br>
+      <sub><i>Corporate · Bold</i></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
       <a href="prompts/pwc-style/"><img src="prompts/pwc-style/previews/0.webp" alt="PwC Style" width="300"></a><br>
       <a href="prompts/pwc-style/"><b>PwC Style</b></a><br>
       <sub>Serif headlines, five warm colors</sub><br>
       <sub><i>Corporate · Warm</i></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <a href="prompts/roland-berger-style/"><img src="prompts/roland-berger-style/previews/0.webp" alt="Roland Berger Style" width="300"></a><br>
+      <a href="prompts/roland-berger-style/"><b>Roland Berger Style</b></a><br>
+      <sub>One indigo ramp, lettered exhibits</sub><br>
+      <sub><i>Corporate · Elegant</i></sub>
     </td>
   </tr>
 </table>
@@ -369,25 +411,39 @@ Modern themes for product roadmaps, feature launches and engineering reviews.
       <sub><i>Tech · Minimal</i></sub>
     </td>
     <td align="center" width="33%" valign="top">
+      <a href="prompts/ibm-style/"><img src="prompts/ibm-style/previews/0.webp" alt="IBM Style" width="300"></a><br>
+      <a href="prompts/ibm-style/"><b>IBM Style</b></a><br>
+      <sub>The Carbon design system, set as slides</sub><br>
+      <sub><i>Corporate · Tech</i></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
       <a href="prompts/mainframe/"><img src="prompts/mainframe/previews/0.webp" alt="Mainframe" width="300"></a><br>
       <a href="prompts/mainframe/"><b>Mainframe</b></a><br>
       <sub>Straight from the machine room</sub><br>
       <sub><i>Tech · Dark · Retro</i></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/notion-style/"><img src="prompts/notion-style/previews/0.webp" alt="Notion Style" width="300"></a><br>
       <a href="prompts/notion-style/"><b>Notion Style</b></a><br>
       <sub>Your deck, written like a doc</sub><br>
       <sub><i>Minimal · Calm</i></sub>
     </td>
-  </tr>
-  <tr>
+    <td align="center" width="33%" valign="top">
+      <a href="prompts/stripe-style/"><img src="prompts/stripe-style/previews/0.webp" alt="Stripe Style" width="300"></a><br>
+      <a href="prompts/stripe-style/"><b>Stripe Style</b></a><br>
+      <sub>Blurple, navy and one bright slant</sub><br>
+      <sub><i>Bold · Tech</i></sub>
+    </td>
     <td align="center" width="33%" valign="top">
       <a href="prompts/telemetry/"><img src="prompts/telemetry/previews/0.webp" alt="Telemetry" width="300"></a><br>
       <a href="prompts/telemetry/"><b>Telemetry</b></a><br>
       <sub>Your deck as a dashboard</sub><br>
       <sub><i>Tech · Dark</i></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/wireframe/"><img src="prompts/wireframe/previews/0.webp" alt="Wireframe" width="300"></a><br>
       <a href="prompts/wireframe/"><b>Wireframe</b></a><br>
@@ -617,11 +673,19 @@ Easy-to-read themes for lectures, research and reports. Built so people can actu
       <sub><i>Bold · Dark</i></sub>
     </td>
     <td align="center" width="33%" valign="top">
+      <a href="prompts/thesis-defense/"><img src="prompts/thesis-defense/previews/0.webp" alt="Thesis Defense" width="300"></a><br>
+      <a href="prompts/thesis-defense/"><b>Thesis Defense</b></a><br>
+      <sub>Your chapters, one rail, every answer tagged</sub><br>
+      <sub><i>Calm · Minimal</i></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
       <a href="prompts/trailhead/"><img src="prompts/trailhead/previews/0.webp" alt="Trailhead" width="300"></a><br>
       <a href="prompts/trailhead/"><b>Trailhead</b></a><br>
       <sub>Learning, one mile at a time</sub><br>
       <sub><i>Warm · Calm</i></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/wildflower/"><img src="prompts/wildflower/previews/0.webp" alt="Wildflower" width="300"></a><br>
       <a href="prompts/wildflower/"><b>Wildflower</b></a><br>
@@ -705,6 +769,12 @@ Understated themes for fund updates, board reports, banking decks and market com
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
+      <a href="prompts/goldman-sachs-style/"><img src="prompts/goldman-sachs-style/previews/0.webp" alt="Goldman Sachs Style" width="300"></a><br>
+      <a href="prompts/goldman-sachs-style/"><b>Goldman Sachs Style</b></a><br>
+      <sub>The board book, in light blue and navy</sub><br>
+      <sub><i>Corporate · Elegant</i></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
       <a href="prompts/ledger/"><img src="prompts/ledger/previews/0.webp" alt="Ledger" width="300"></a><br>
       <a href="prompts/ledger/"><b>Ledger</b></a><br>
       <sub>Every number reconciled</sub><br>
@@ -716,14 +786,14 @@ Understated themes for fund updates, board reports, banking decks and market com
       <sub>Engraved, not printed</sub><br>
       <sub><i>Elegant · Minimal</i></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/pitch-book/"><img src="prompts/pitch-book/previews/0.webp" alt="Pitch Book" width="300"></a><br>
       <a href="prompts/pitch-book/"><b>Pitch Book</b></a><br>
       <sub>Navy rigor, gold rules, dense conviction</sub><br>
       <sub><i>Corporate · Elegant</i></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/ticker/"><img src="prompts/ticker/previews/0.webp" alt="Ticker" width="300"></a><br>
       <a href="prompts/ticker/"><b>Ticker</b></a><br>
@@ -745,7 +815,7 @@ A theme is a folder with a prompt, a short page, and slide previews, so new them
 
 [MIT](LICENSE). Use the prompts and previews for anything, commercial work included. Credit to SlideSpeak is optional but welcome.
 
-The brand-style themes (the consulting firm styles, TED Style, Keynote Minimal, Six-Pager, Airbnb Pitch Deck, Netflix Culture Deck, Notion Style, Economist Style, Harvard Style and Wrapped) are **unofficial homages** built from publicly documented conventions. They are not affiliated with, endorsed by, or produced by those companies, and claim no rights to their trademarks.
+The brand-style themes (the consulting firm styles, TED Style, Keynote Minimal, Six-Pager, Airbnb Pitch Deck, Netflix Culture Deck, Notion Style, Economist Style, Harvard Style, Wrapped, Goldman Sachs Style, Sequoia Pitch Deck, Stripe Style and IBM Style) are **unofficial homages** built from publicly documented conventions. They are not affiliated with, endorsed by, or produced by those companies, and claim no rights to their trademarks. Magic Quadrant and Hype Cycle are trademarks of Gartner, Inc.
 
 ## About SlideSpeak
 

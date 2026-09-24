@@ -1,6 +1,6 @@
 # All prompts
 
-93 slide design prompts, grouped by use case. Each links to its full page: preview, the prompt, palette, fonts and notes.
+103 slide design prompts, grouped by use case. Each links to its full page: preview, the prompt, palette, fonts and notes.
 
 [← Back to the gallery](../README.md) · [Live site](https://slidespeak.co/slide-design-prompts)
 
@@ -19,6 +19,7 @@ Themes that help you raise money. Dark backgrounds, big numbers, and layouts tha
 | [**Midnight Pitch**](./midnight-pitch/) | Make investors lean in | Dark, Bold | Sora + Inter |
 | [**Monolith**](./monolith/) | Expensive silence | Minimal, Dark | Jost + DM Mono |
 | [**Runway**](./runway/) | Clean, light investor pitch deck | Minimal, Corporate | Bricolage Grotesque + Spline Sans Mono |
+| [**Sequoia Pitch Deck**](./sequoia-pitch-deck/) | Ten questions, in order, on every slide | Minimal, Corporate | Work Sans |
 | [**Spark**](./spark/) | Bold pink pitch for consumer apps | Bold, Playful | Archivo Black + Archivo |
 | [**Term Sheet**](./term-sheet/) | The institutional VC framework deck | Corporate, Minimal | Source Serif 4 + IBM Plex Sans |
 | [**Traction**](./traction/) | Let the numbers pitch | Minimal, Tech | Archivo + JetBrains Mono |
@@ -53,9 +54,14 @@ Unofficial homages to the deck traditions of McKinsey, BCG, Bain, the Big 4 and 
 | [**BCG Style**](./bcg-style/) | Strategy lives in a 2x2 | Corporate, Bold | Arimo + Gelasio |
 | [**Deloitte Style**](./deloitte-style/) | Black, white and one green dot | Corporate, Bold | Open Sans + Source Serif 4 |
 | [**EY Style**](./ey-style/) | Dark slate, one decisive yellow beam | Corporate, Dark, Bold | Barlow + Barlow Condensed |
+| [**Gartner Style**](./gartner-style/) | Research note grammar, quadrant and curve included | Corporate, Tech | Source Sans 3 |
+| [**Kearney Style**](./kearney-style/) | White, slate and one purple row | Corporate, Minimal | DM Sans |
 | [**KPMG Style**](./kpmg-style/) | Audit-grade clarity in KPMG blue | Corporate, Minimal | Barlow Condensed + Arimo |
+| [**L.E.K. Style**](./lek-style/) | Diligence answers, cut like an arrow | Corporate, Minimal | Bitter + Outfit |
 | [**McKinsey Style**](./mckinsey-style/) | Answer first, always | Corporate, Minimal | Gelasio + Arimo |
+| [**Oliver Wyman Style**](./oliver-wyman-style/) | Action title on top, the so-what in a bumper below | Corporate, Bold | Oswald + Noto Sans |
 | [**PwC Style**](./pwc-style/) | Serif headlines, five warm colors | Corporate, Warm | Gelasio + Arimo |
+| [**Roland Berger Style**](./roland-berger-style/) | One indigo ramp, lettered exhibits | Corporate, Elegant | Plus Jakarta Sans |
 
 ### Marketing & brand
 
@@ -81,8 +87,10 @@ Modern themes for product roadmaps, feature launches and engineering reviews.
 | [**Bento**](./bento/) | Big tiles for big news | Minimal, Tech | Geist |
 | [**Circuit**](./circuit/) | Follow the traces | Tech, Dark | Chakra Petch + Share Tech Mono |
 | [**Drafting Room**](./drafting-room/) | Measure twice, present once | Tech, Minimal | Saira + Spline Sans Mono |
+| [**IBM Style**](./ibm-style/) | The Carbon design system, set as slides | Corporate, Tech | IBM Plex Sans + IBM Plex Mono |
 | [**Mainframe**](./mainframe/) | Straight from the machine room | Tech, Dark, Retro | VT323 |
 | [**Notion Style**](./notion-style/) | Your deck, written like a doc | Minimal, Calm | Inter |
+| [**Stripe Style**](./stripe-style/) | Blurple, navy and one bright slant | Bold, Tech | Schibsted Grotesk + JetBrains Mono |
 | [**Telemetry**](./telemetry/) | Your deck as a dashboard | Tech, Dark | IBM Plex Sans + IBM Plex Mono |
 | [**Wireframe**](./wireframe/) | Shipped before the visual design | Minimal, Tech | Inter + Roboto Mono |
 
@@ -130,6 +138,7 @@ Easy-to-read themes for lectures, research and reports. Built so people can actu
 | [**Seminar**](./seminar/) | Beamer, but nicer | Minimal, Corporate | Source Serif 4 |
 | [**Syllabus**](./syllabus/) | The outline is the design | Calm, Playful | Poppins + DM Mono |
 | [**TED Style**](./ted-style/) | Say it huge, keep it dark | Bold, Dark | Inter |
+| [**Thesis Defense**](./thesis-defense/) | Your chapters, one rail, every answer tagged | Calm, Minimal | Newsreader + IBM Plex Sans |
 | [**Trailhead**](./trailhead/) | Learning, one mile at a time | Warm, Calm | Fraunces + Karla + Space Mono |
 | [**Wildflower**](./wildflower/) | Hand-gathered, loosely arranged | Warm, Calm | EB Garamond + Karla |
 
@@ -155,6 +164,7 @@ Understated themes for fund updates, board reports, banking decks and market com
 | [**Annual Report**](./annual-report/) | The year, printed large | Corporate, Elegant | DM Serif Display + DM Sans |
 | [**Broadsheet**](./broadsheet/) | Read all about it | Elegant, Corporate | Playfair Display + Newsreader |
 | [**Economist Style**](./economist-style/) | Charts with a red tag and the axis on the right | Corporate, Minimal | Fira Sans + Merriweather |
+| [**Goldman Sachs Style**](./goldman-sachs-style/) | The board book, in light blue and navy | Corporate, Elegant | Libre Franklin |
 | [**Ledger**](./ledger/) | Every number reconciled | Elegant, Calm | Libre Baskerville + Cutive Mono |
 | [**Letterhead**](./letterhead/) | Engraved, not printed | Elegant, Minimal | Cormorant Garamond |
 | [**Pitch Book**](./pitch-book/) | Navy rigor, gold rules, dense conviction | Corporate, Elegant | EB Garamond + Arimo |
