@@ -1,0 +1,59 @@
+[← All prompts](../README.md) · [Live site](https://slidespeak.co/slide-design-prompts) · [SlideSpeak](https://slidespeak.co)
+
+# Atlassian Style
+
+> Run the meeting like a play
+
+An Atlassian presentation template in the Team Playbook format: a play card, a 60-minute run clock, DACI roles, a health monitor and an action list. An unofficial homage to the Atlassian design system. Not affiliated with, endorsed by, or connected to Atlassian.
+
+**Category:** Business & strategy &nbsp;·&nbsp; **Style:** Playful, Corporate &nbsp;·&nbsp; **Mode:** Light &nbsp;·&nbsp; **Fonts:** Bricolage Grotesque + Inter
+
+<table>
+    <tr>
+      <td align="center" width="33%"><img src="./previews/0.webp" alt="Atlassian Style: Cover" width="260"><br><sub>Cover</sub></td>
+      <td align="center" width="33%"><img src="./previews/1.webp" alt="Atlassian Style: Play overview" width="260"><br><sub>Play overview</sub></td>
+      <td align="center" width="33%"><img src="./previews/2.webp" alt="Atlassian Style: Run steps" width="260"><br><sub>Run steps</sub></td>
+    </tr>
+    <tr>
+      <td align="center" width="33%"><img src="./previews/3.webp" alt="Atlassian Style: DACI decision" width="260"><br><sub>DACI decision</sub></td>
+      <td align="center" width="33%"><img src="./previews/4.webp" alt="Atlassian Style: Health monitor" width="260"><br><sub>Health monitor</sub></td>
+      <td align="center" width="33%"><img src="./previews/5.webp" alt="Atlassian Style: Action items" width="260"><br><sub>Action items</sub></td>
+    </tr>
+</table>
+
+## The prompt
+
+Copy the prompt below into **ChatGPT**, **Claude**, or any AI chat — or grab the raw [`PROMPT.md`](./PROMPT.md). It asks what your presentation is about first, then applies the design to every slide.
+
+```text
+Create a presentation in the 'Atlassian Style' theme, an unofficial homage to the Atlassian design system and the Team Playbook format, where the deck runs like a play. Background white #FFFFFF; surfaces #F0F1F2, tinted panels #E9F2FE, hairlines 1px #DDDEE1. Atlassian Blue #1868DB for actions and issue keys, navy #1C2B42 headlines, text #292A2E, secondary text #505258. Accent shapes: orange #FCA700, lime #94C748, purple #C97CF4, light blue #CFE1FD, navy. Typography: 'Bricolage Grotesque' (Google Fonts) 700 for headlines tracked tight: 46px on the cover, 28 to 34px on content slides, 18 to 19px for sub-heads; 'Inter' 400/600 for body 14 to 16px, secondary lines 12 to 13px, footers 11px. Sentence case; headlines state the result. Signature motif: flat building-block shapes (squares, circles, half and quarter circles) in the accent colors, packed edge to edge on a grid so the pieces read as one team. Flat SVG fills only. Cover: left, team name, headline, subtitle and three metadata tiles (Prep time, Run time, People) each with a 1.5px-stroke #1868DB line icon; right, a #E9F2FE column holding a 3x3 block composition. Play overview: a #1868DB panel with 16px radius holding the play name, a '5-second summary' and the three tiles in white; beside it a 'What you'll need' checklist with filled blue check squares and hairline dividers. Run steps (signature): a 60-minute run clock, one horizontal bar with 8px radius split into colored segments sized to each step's estimated minutes, ticks 0/15/30/45/60 above, numbered steps below in matching color circles with 'Est. X min', a bold name and one sentence. DACI decision: a status lozenge and due date over the decision question, four columns (Driver, Approver, Contributors, Informed) each topped by its own block shape with the letter inside, people as colored initial avatars with name and role, options in bordered boxes, the recommended one tinted #E9F2FE with a #1868DB border. Health monitor: attributes as rows, check-ins as columns, cells filled green #22A06B, orange #FCA700 or red #E2483D with 'Healthy', 'Watch' or 'At risk' written inside, plus a #E9F2FE panel naming what to fix. Action items: an issue list with blue keys like ORC-418, summary, avatar and owner, due date and lozenges (To do #DDDEE1/#292A2E, In progress #CFE1FD/#144794, Done #BAF3DB/#164B35) in 11px bold uppercase with 3px radius. Footer: 1px #DDDEE1 rule, a tiny four-shape block cluster, team and play name in 11px #505258 left, page number right. Strictly avoid: Atlassian or product logos, wordmarks or the mountain mark, claiming affiliation with Atlassian, drop shadows, gradients, stock photos, clipart characters, emoji, dark backgrounds, all-caps text outside lozenges, centered body text, one radius on every box.
+
+Use this theme for my slides. Ask me what the presentation is about first, then apply the theme to every slide.
+```
+
+**[Open ChatGPT ↗](https://chatgpt.com/)** &nbsp;·&nbsp; **[Open Claude ↗](https://claude.ai/new)** &nbsp;·&nbsp; **[Generate a finished deck with SlideSpeak ↗](https://app.slidespeak.co/presentation?utm_source=github&utm_medium=referral&utm_campaign=slide-design-prompts)**
+
+## Palette
+
+| Role | Hex |
+| --- | --- |
+| Background | `#FFFFFF` |
+| Surface / panel | `#F0F1F2` |
+| Border | `#DDDEE1` |
+| Primary accent | `#1868DB` |
+| Primary (soft tint) | `#E9F2FE` |
+| Text on primary | `#FFFFFF` |
+| Heading text | `#1C2B42` |
+| Body text | `#292A2E` |
+| Muted text | `#505258` |
+
+**Chart series:** `#1868DB` `#FCA700` `#94C748` `#C97CF4`
+
+## Fonts
+
+- **Bricolage Grotesque** (heading, Google Fonts)
+- **Inter** (supporting, Google Fonts)
+
+---
+
+<sub>Part of [SlideSpeak Slide Design Prompts](../../README.md) · MIT licensed</sub>
